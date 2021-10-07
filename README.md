@@ -12,9 +12,9 @@
 3.建立打卡資料庫<br>
 
 ![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/Squid-Game-Games-Ranked.jpg)
-
+![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/intro-1632168234.jpg)
 
 儲存臉部資訊:<br>
 連續拍照40張來當作識別的分類器的根據<br>
 資訊都儲存在邊緣端，兼顧即時性與隱私性<br>
-![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/intro-1632168234.jpg)
+![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/auto-take-pic.gif)
