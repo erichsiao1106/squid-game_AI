@@ -11,7 +11,8 @@
 2.偵測人臉後五秒自動拍照儲存<br>
 3.建立打卡資料庫<br>
 
-![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/Squid-Game-Games-Ranked.jpg| width=100)
+![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/Squid-Game-Games-Ranked.jpg)
+<img src="https://github.com/erichsiao1106/squid-game_AI/blob/main/Squid-Game-Games-Ranked.jpg" width="200" height="400" />
 ![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/intro-1632168234.jpg )
 
 儲存臉部資訊:<br>
