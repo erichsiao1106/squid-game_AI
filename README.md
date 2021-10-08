@@ -1,6 +1,6 @@
 # 熱門影集 <<魷魚遊戲>>有關AI技術的實作 <br>
-實作影片
-<img src="https://github.com/erichsiao1106/squid-game_AI/blob/main/move-detect.gif" width="480" height="240" />
+實作影片 <br>
+<img src="https://github.com/erichsiao1106/squid-game_AI/blob/main/move-detect.gif" width="480" height="240" /> <br>
 
 
 
