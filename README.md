@@ -12,7 +12,7 @@
 3.建立打卡資料庫<br>
 
 ![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/Squid-Game-Games-Ranked.jpg)
-<img src="https://github.com/erichsiao1106/squid-game_AI/blob/main/Squid-Game-Games-Ranked.jpg" width="400" height="400" />
+<img src="https://github.com/erichsiao1106/squid-game_AI/blob/main/Squid-Game-Games-Ranked.jpg" width="480" height="240" />
 ![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/intro-1632168234.jpg )
 
 儲存臉部資訊:<br>
