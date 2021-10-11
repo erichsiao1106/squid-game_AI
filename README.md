@@ -20,7 +20,7 @@
 ![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/auto-take-pic.gif)
 
 
-人臉身分識別
+人臉身分識別 <br>
 ![Alt Text](https://github.com/erichsiao1106/squid-game_AI/blob/main/clock-in.gif)
 TO do :<br>
 自動拍照可以從倒數五秒換成使用情緒分類<br>
