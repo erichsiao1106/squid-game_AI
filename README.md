@@ -6,7 +6,8 @@
 
 
 # 目的
-1.部署在邊緣(jetson nano 、raspberry pi)，所有運算跟資料庫儲存都在邊緣完成 <br>
+1.實作出影集裡面有關AI的技術(動作偵測、情緒識別、身分識別)，
+全部部署在邊緣裝置(jetson nano 、raspberry pi)，所有運算跟資料庫儲存都在邊緣完成 <br>
 2.在<<red light，green light>>遊戲中的移動偵測<br>
 <img src="https://github.com/erichsiao1106/squid-game_AI/blob/main/Squid-Game-Games-Ranked.jpg" width="480" height="240" /><br>
 3.進入遊戲前的臉部特徵抓取儲存<br>
