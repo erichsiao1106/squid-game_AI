@@ -29,7 +29,7 @@
 實作影片
 ![Alt Text](https://github.com/erichsiao1106/hand-speak/blob/main/handgood.gif)
 
-利用hand landmarks 回傳的21點的座標實作
+利用hand landmarks 回傳的21點的座標實作<br>
 
 # TO do :<br>
 自動拍照可以從倒數五秒換成使用情緒分類<br>
